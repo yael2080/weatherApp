@@ -1,6 +1,9 @@
 .App {
+  background-color:rgb(247, 247, 247) ;
   text-align: center;
-}
+  height: 100vh;
+  width: 100%;
+  }
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +38,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+.app-btn-weather{
+  border-color: #E24E00;
+  padding: 0rem;
+  background-color: #E24E00;
+  color: white;
+  width: 12vw;
+  margin-top: 5vh;
+  margin-right: 5px;
+  border-radius: 7px;
+}
+.app-btn-history{
+  border-color: #E24E00;
+  padding: 0rem;
+  background-color: #E24E00;
+  color: white;
+  width: 12vw;
+  margin-top: 5vh;
+  border-radius: 7px;
 }

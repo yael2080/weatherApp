@@ -1,0 +1,16 @@
+.dateAndHour-span-th{
+    width: 20%;
+    height: 50px;
+    line-height: 60px;
+    font-size: 2vw;
+    font-weight: bold; 
+    font-family: sans-serif;
+    color: #E24E00;
+    text-align: center;
+    line-height : 10vh;
+}
+.dateAndHour-span{
+    font-size: 4vh;
+    color: #584d54
+}
+

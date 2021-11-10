@@ -1,0 +1,21 @@
+.location-div-main {
+    height: 80vh;
+    width: 30vw;
+    padding: calc(var(--globalMargin) * 3);
+    margin-left: 35vw;
+    margin-top: 5vh;
+    background-color:white;
+
+}
+.location-span-th {
+    width: 20%;
+    height: 50px;
+    line-height: 60px;
+    font-size: 2vw;
+    font-weight: bold;
+    color:  #E24E00;
+}
+.location-span{
+    font-size: 3vh;
+    color: #584d54
+}

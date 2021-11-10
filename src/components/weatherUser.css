@@ -1,0 +1,14 @@
+.weatherUser-span{
+    font-size: 5vh;
+    color: #584d54
+}
+.weatherUser-btn{
+        border-color: #E24E00;
+        padding: 0rem;
+        background-color: #E24E00;
+        color: white;
+        width: 2vw;
+        margin-top: 2vh;
+        margin-right: 5px; 
+        border-radius: 7px;     
+}

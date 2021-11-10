@@ -1,0 +1,11 @@
+.searchHistory-input{
+    margin-left: 65vw;
+    margin-right: 3px;
+}
+.searchHistory-btn{
+        border-color: #E24E00;
+        padding: 0rem;
+        background-color: #E24E00;
+        color: white;
+        border-radius: 7px;
+}
